@@ -1,12 +1,6 @@
 {
     "version": 2,
     "name": "tuto",
-    "builds": [
-        {
-            "src": "index.js",
-            "use": "@vercel/node"
-        }
-    ],
     "routes": [
         {
             "src": "/",
